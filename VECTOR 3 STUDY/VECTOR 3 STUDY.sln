@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VECTOR 3 STUDY.Plugins", "VECTOR 3 STUDY.Plugins.csproj", "{E21C72F3-C006-91E8-3297-CBCEBABDE0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VECTOR 3 STUDY", "VECTOR 3 STUDY.csproj", "{D5E65322-13DF-2134-8F72-34F16A9715B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VECTOR 3 STUDY.Editor.Plugins", "VECTOR 3 STUDY.Editor.Plugins.csproj", "{A5F6893E-55D8-B144-AD97-275296E127FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VECTOR 3 STUDY.Editor", "VECTOR 3 STUDY.Editor.csproj", "{533B686F-1FAB-FBED-A2FB-1D93D9A99929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21C72F3-C006-91E8-3297-CBCEBABDE0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21C72F3-C006-91E8-3297-CBCEBABDE0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21C72F3-C006-91E8-3297-CBCEBABDE0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21C72F3-C006-91E8-3297-CBCEBABDE0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E65322-13DF-2134-8F72-34F16A9715B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E65322-13DF-2134-8F72-34F16A9715B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E65322-13DF-2134-8F72-34F16A9715B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E65322-13DF-2134-8F72-34F16A9715B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F6893E-55D8-B144-AD97-275296E127FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F6893E-55D8-B144-AD97-275296E127FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F6893E-55D8-B144-AD97-275296E127FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F6893E-55D8-B144-AD97-275296E127FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533B686F-1FAB-FBED-A2FB-1D93D9A99929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533B686F-1FAB-FBED-A2FB-1D93D9A99929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533B686F-1FAB-FBED-A2FB-1D93D9A99929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533B686F-1FAB-FBED-A2FB-1D93D9A99929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
